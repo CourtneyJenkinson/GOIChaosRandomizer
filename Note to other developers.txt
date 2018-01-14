@@ -1,0 +1,13 @@
+While this program isn't inherently optimized, 
+I've chosen Unreal as the platform for development
+due to the sole reason of its accessibility to those
+with little to no programming experience. In hopes of
+allowing any Chaos members to modify this software will
+little (less) difficulty. 
+
+For those who will develop this randomizer further or
+create a new randomizer entirely, I ask you to keep 
+other developers in mind. Remember to document the software
+and credit all those who have contributed!
+
+~Courtney Jenkinson  

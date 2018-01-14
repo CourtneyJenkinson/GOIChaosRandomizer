@@ -1,6 +1,23 @@
+# UE4 Project directories to ignore
+
+Binaries/
+
+DerivedDataCache/
+
+Intermediate/
+
+Saved/
+
+Build/
+
+Plugins/
+
 # Visual Studio 2015 user specific files
 .vs/
 
+
+
+#EXAMPLES (*[filetype/directory] to disable )
 # Visual Studio 2015 database file
 *.VC.db
 
