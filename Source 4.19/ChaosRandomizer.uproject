@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.19",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "WindowsDeviceProfileSelector",
+			"Enabled": true
+		},
+		{
+			"Name": "WebUI",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/277c943e8fcc48bdb53607cae4505aa8"
+		}
+	]
+}
